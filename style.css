@@ -1,0 +1,194 @@
+body{ 
+    background-image: url("image/123445.jpg");
+  background-color: #cccccc;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 520px;
+}
+p{
+    font-size: 20px;
+    margin-left: 140px;
+}
+.div1{
+    margin-left: 550px;
+}
+.div2{
+    width: 150px;
+    margin-left: 600px;
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    font-size: 22px;
+    padding-left: 10px;
+    padding-top: 2px;
+    margin-left: 300px;
+    margin-top: 20px;
+    position: absolute;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    font-size: 22px;
+    padding-left: 20px;
+    margin-left: 840px; 
+    margin-bottom: 240px;
+    margin-top: 18px;
+    position: absolute;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+}
+.div6{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-left: 300px;;
+    font-size: 18px;
+    padding-top: 2px;
+    padding-left: 15px;
+    margin-top: 30px;
+    position: absolute;
+}
+.div7{
+    width: 200px;
+    height: 200px;
+    background-color: palegreen;
+    font-size: 22px;
+    margin-left: 840px;
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.div8{
+    font-size: 35px;
+    margin-left: 570px;
+    margin-top: 20px;
+}
+h1{
+    margin-left: 10px;
+}
+.div9{
+    font-size: 25px;
+    width: 540px;
+    height: 300px;
+    background-color:orangered;
+    position: absolute;
+} 
+.div10{
+    font-size: 25px;
+    width: 565px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-left: 840px;
+    position: absolute;
+}
+.div11{
+    width: 500px;
+    height: 220px;
+    margin-left: 20px;
+}
+.div12{
+    margin-top: 100px;
+margin-left: 550px;
+}
+.div13{
+    width: 220px;
+    margin-left: 570px;
+}
+.div14{
+    font-size: 30px;
+    margin-left: 180px;
+    margin-top: 400px;
+    position: absolute;
+   
+}
+.div15{
+    font-size: 30px;
+    margin-left: 510px;
+    margin-top: 400px;
+    position: absolute;
+}
+.div16{
+    font-size: 30px;
+    margin-left: 880px;
+     margin-top: 400px;
+    position: absolute;
+}
+.div17{
+    margin-left: 370px;
+width: 300px;
+height: 300px;
+}
+.div18{
+    width: 200px;
+    height: 200px;
+    margin-left: 1000px;
+    position: absolute;
+}
+.div19{
+    margin-left: 955px;
+    margin-top: 40px;
+}
+.div20{
+    font-size: 30px;
+    margin-left: 1020px;
+}
+.div21{
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 178px;
+    position: absolute;
+}
+.div22{
+margin-left: 312px;
+margin-top: 58px;
+position: absolute;
+}
+.div23{
+    font-size: 30px;
+    margin-left: 625px;
+    margin-top: 46px;
+    position: absolute;
+}
+.div24{
+    font-size: 30px;
+    margin-left:970px;
+    margin-top: 46px;
+}
+.div25{
+    margin-left: 740px;
+    margin-top: 20px;
+}
+.label1{
+    font-size: 30px;
+    position: absolute;
+    margin-left: 300px;
+}
+.label2{
+    font-size: 30px;
+margin-left: 600px;
+position: absolute;
+}
+.label3{
+    font-size: 30px ;
+    margin-left: 900px;
+}
+.label4{
+    margin-left: 650px;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
